@@ -9,7 +9,11 @@ steps:
 open command line
 
 type => git clone https://github.com/dharunsri09/Medical_leaf_prediction.git
+
+
 type => cd Medical_leaf_prediction
+
+
 type => code . 
 
 Now VS code will open
