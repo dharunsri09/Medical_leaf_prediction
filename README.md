@@ -24,9 +24,12 @@ Now VS code will open
 commands to install:
 
 pip install streamlit
+
+
 pip install requests
 
 type below to run:
+
 streamlit run main.py
 
 
